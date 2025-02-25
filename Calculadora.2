@@ -1,0 +1,53 @@
+﻿using System;
+
+namespace Calculadora2
+{
+    class Calculadora
+    {
+        public double n1;
+        public double n2;
+
+        public void somar()
+        {
+            Console.WriteLine("\nA soma é: " + (n1 + n2));
+        }
+
+        public void subtrair()
+        {
+            Console.WriteLine("A subtração é: " + (n1 - n2));
+        }
+
+        public void multiplicar()
+        {
+            Console.WriteLine("A multiplicação é: " + (n1 * n2));
+        }
+
+        public void dividir()
+        {
+                Console.WriteLine("A divição é: " + (n1 / n2));
+            }
+
+        static void Main(string[] args)
+        {
+            Calculadora c1 = new Calculadora();
+
+            c1.n1 = 2;
+            c1.n2 = 3;
+
+            Calculadora c2 = new Calculadora();
+
+            c2.n1 = 6;
+            c2.n2 = 3;
+
+            c1.somar();
+            c1.subtrair();
+            c1.multiplicar();
+            c1.dividir();
+
+            c2.somar();
+            c2.subtrair();
+            c2.multiplicar();
+            c2.dividir();
+        }
+    }
+}
