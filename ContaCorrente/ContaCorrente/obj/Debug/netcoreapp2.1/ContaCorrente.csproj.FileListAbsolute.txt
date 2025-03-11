@@ -1,0 +1,11 @@
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.deps.json
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.runtimeconfig.json
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.runtimeconfig.dev.json
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.dll
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\bin\Debug\netcoreapp2.1\ContaCorrente.pdb
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.csprojAssemblyReference.cache
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.csproj.CoreCompileInputs.cache
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.AssemblyInfoInputs.cache
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.AssemblyInfo.cs
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.dll
+D:\3° Módulo\Prof° Elias\ContaCorrente\ContaCorrente\obj\Debug\netcoreapp2.1\ContaCorrente.pdb
